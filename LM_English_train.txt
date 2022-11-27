@@ -1,0 +1,1006 @@
+
+
+			ENGLISH TRAIN SPLIT SENTANCES PROBABILITIES
+
+It is this tendency which presents a problem right now, much more than the scale of the epidemic in quantitative terms.
+	2.8306159420289852e-05
+The truth is, at the present time, there is quite simply no adequate explanation for it, hence the debate which has been initiated on the possible existence of alternative disease transmission routes of which we are, as yet, unaware.
+	2.5954010241327858e-12
+Medical and scientific uncertainty still prevails.
+	1.0
+In these circumstances, the precautionary principle must be adopted to the full.
+	0.00027233115468409583
+All possible resources must be used in order to assess the BSE situation in the various countries, particularly including the development and systematic use of fast screening tests.
+	1.0716735253772291e-06
+The development of BSE in France raises issues that are not purely medical in the narrowest sense.
+	6.123848716441308e-06
+This is nothing new.
+	0.09090909090909091
+From the very beginning, it has not been possible to give any explanation for the emergence of this disease and its transmission to human beings, and its spread internationally, without taking the key socio-economic factors into account: contemporary trends in the agro-industry, the subordination of producers and consumers to the dominating rationale of capitalistic profit.
+	7.296252215258912e-12
+Still today, the way in which the agro-industry is organised, and the fact that it is infiltrated by international mafia-like networks, make the fight to eradicate BSE and TSEs even more difficult.
+	2.6455026455026455e-07
+No public health policy should ignore these factors.
+	0.2
+They are, however, discussed only on rare occasions and in little detail by the European institutions, including Parliament.
+	8.267195767195767e-05
+Basically, BSE is one of those medical matters which, in practical and terribly human terms, bears witness to the acute nature of the choices that society makes, and that is yet another reason why preventing TSEs is a political matter to which Parliament' s responsibility is truly committed.
+	7.61348057244408e-12
+Mr President, as an MEP representing a farming area, I have first-hand experience of how devastating the BSE crisis has been to British agriculture.
+	4.451566951566952e-06
+I can also vouch for the necessity of maintaining effective controls.
+	0.001736111111111111
+You might therefore expect me to be enthusiastic about these new controls on BSE, but I am not.
+	0.00021164021164021168
+We already have enough and I believe they are adequate and effective.
+	0.0014204545454545455
+This proposal simply adds more red tape and costs to an already overburdened industry.
+	0.14285714285714285
+Of course, I have no objections to other countries adopting measures which match ours.
+	0.000641025641025641
+In fact, it would be helpful if measures already in place in the UK were implemented throughout the EU and elsewhere.
+	4.286694101508915e-06
+Thus it is not new laws we need - we need more compliance.
+	1.6806722689075633e-07
+Until all Member States are able to assure us that there is full compliance, this proposal, if passed, will simply add to the list of laws which have not been implemented.
+	7.756070707567093e-10
+In any case, if more controls were needed, we should not be looking to the Commission for guidance.
+	3.1123560535325235e-05
+The British BSE inquiry which was commissioned by the UK Government at a cost of £20 million is due to report in November.
+	6.643282312925169e-06
+We should wait to see what this inquiry says.
+	0.14285714285714285
+Mr President, first of all I should like to add my voice to the congratulations addressed to our rapporteurs, particularly Mrs Roth-Behrendt.
+	1.595690359477124e-07
+Her approach and hence her report is one we can wholeheartedly support.
+	0.011111111111111112
+This regulation is not a major revolution, but it does attempt nonetheless to afford a higher level of protection, based, moreover, on the most stringent practices adopted in specific European Union countries, such as in France.
+	9.45594287097555e-10
+I should, however, like to draw your attention to a number of specific points and, firstly, the existence of a third transmission route which is now practically certain.
+	2.0134819400270254e-10
+I think it essential in this case to define suspect animals quite apart from the age criterion.
+	0.00010566356720202876
+The age criterion ceases to be justified as soon as we are practically assured that this third transmission route does in fact exist.
+	2.649742233075566e-07
+The important thing, then, is to have systematic recourse to testing whenever an animal dies of unknown causes.
+	0.004629629629629629
+Systematic testing precludes fraud and makes it possible to offer better guarantees.
+	0.1
+The issue of slaughtering herds has been discussed at length.
+	0.02222222222222222
+In both France and Germany the whole herd is slaughtered if a single animal is found to be diseased.
+	0.0003052503052503052
+We know that this is not the practice in Great Britain, and that this is a solution which is vigorously opposed by our fellow Members from the United Kingdom.
+	3.5315076721312003e-11
+But is it possible to put the argument of the costs of destroying a herd when a public health issue is involved?
+	3.0193236714975845e-06
+I think this is not a tenable position.
+	0.0004848093083387201
+It is important for the regulations of the various countries of the European Union to be harmonised.
+	1.695743198152093e-10
+I should, finally, like to talk about at-risk materials, these notorious substances which may present risks.
+	0.005208333333333333
+Once again, in France, a number of measures have been implemented, which have been more or less understood, but I am convinced that it is essential to be extremely vigilant and to apply the precautionary principle.
+	1.3390339758982452e-11
+So this regulation is a good one.
+	0.004115226337448559
+It represents some progress, but it is capable of being perfected rather than perfect as it stands.
+	9.92063492063492e-05
+It does not raise any questions concerning the incineration of animal-based meal.
+	0.1
+In some of our countries, we have stockpiles of such meal which we do not yet know how best to destroy, or which has not been destroyed sufficiently, and also animal-based meal used for swine and poultry.
+	2.7217105406405815e-09
+I think, Commissioner, that these are questions we also have to ask.
+	0.00510204081632653
+Mr President, I asked to be allowed to speak again at the end of the debate - we are not quite at the end.
+	2.3938947334392474e-13
+Allow me to say a few words on the debate.
+	0.00024691358024691353
+I would like to thank the honourable Members who have spoken so far, and Mrs Doyle, Mr Goodwill and Mr Nicholson, who have yet to speak, for what they have to say and for the fair treatment we are giving each other.
+	4.29528191636121e-13
+Those who sat in Parliament during the last parliamentary term know that it is Parliament which has cause to be proud of having got a grip on the BSE disaster in the individual committees and in the House as a whole, in a way which cut across the political divide.
+	1.2048319219898147e-17
+I tried at all times, as chair of the committee, to be fair to all the Member States, strict but fair, as my teachers always used to say to me, and I am trying to do the same now.
+	4.5126587080406846e-15
+Allow me therefore to say a few words on some of the points raised. Yes, Mr Trakatellis and others are right, Mr Staes.
+	7.246376811594201e-05
+We still have no tests for live animals.
+	0.044444444444444446
+We still have no tests for very early infection, which is why the Commission is being called upon to keep on working on this, and I know that it is doing so.
+	6.117730985455853e-11
+Of course we need that.
+	0.1
+Mr Whitehead said quite clearly that safety must be a priority, but he would, of course, like the precautionary principle to be applied in equal measure in other Member States and that is the main point here.
+	1.481875067499409e-11
+To some members who have spoken or who have perhaps yet to speak I should like to state one thing quite clearly: we are legislating here for the whole of the European Union, for the 15 Member States with widely varying safety levels.
+	2.5706668747805174e-15
+We are not legislating just for Great Britain.
+	0.14285714285714285
+We know that the data-based export scheme, that the OTS over-30-month scheme, that all these things are important and are working.
+	1.1431184270690443e-06
+I am the first to recognise what Great Britain has achieved and at what price to farmers.
+	1.4814814814814815e-05
+I have spoken to countless officials and farmers' representatives in Great Britain over recent years and I know that.
+	1.1655011655011655e-05
+Nonetheless, I must ensure that this level of safety also applies to Italy, Germany and all the other countries in the European Union.
+	6.075246742501298e-08
+Which is why I believe that this regulation is a good regulation.
+	4.899078973153046e-06
+When Mrs Attwooll and others ask if we can have derogations for countries which are already that good and if they must still remove the spinal column, then I call on you, Mr Byrne, to table a proper list of derogations to the Council saying countries A, B, C and D comply and are exempt from certain measures.
+	2.160074668991125e-11
+I will be the first to support it.
+	0.001443001443001443
+But I do not want this to be rushed, as is the case with certain proposed amendments.
+	1.4880952380952383e-05
+This is why I stand by the position which I described earlier. I think that we really should stick with what we discussed in committee and with what Mrs Doyle and I have re-tabled.
+	1.0725891987487535e-11
+This particularly applies to proposed Amendment No 56, to which Mrs Attwooll referred.
+	0.0020833333333333333
+I will be the first to support this at second reading, if the Council makes the proposal, but we need to list clearly and to substantiate clearly where derogations are possible and under what conditions and for which Member State.
+	1.2361237690185058e-11
+What must the Member State do to qualify?
+	0.03125
+And of course I support Mrs Grossetête: naturally, tests must be carried out on animals which have died from unknown causes but that is already included in the Commission' s proposal on the tests.
+	4.725191910834342e-12
+Mr President, at the outset I would like to add my thanks to Mrs Roth-Berendt and indeed Mr Böge for their commitment to this important issue.
+	7.428911346445435e-09
+For some time Parliament, the Commission and Member States have sought the introduction of common EU-wide rules to deal with the problems of TSEs such as BSE in cattle and scrapie in sheep.
+	2.8842887943765135e-08
+The basis of this proposal is that the discovery of any TSE or the first incidence of BSE in a Member State would be covered by common rules which would take effect automatically.
+	3.976881658026296e-14
+To date, many of the actions taken to deal with BSE have been carried out on a unilateral basis by Members using national measures.
+	4.0257648953301115e-06
+The TSE proposal being put forward includes, among other things, a requirement for educational programmes for farmers, vets and officials; the removal of a list of specified risk material, an active surveillance programme using rapid post-mortem tests; and the strengthening of the ban on the feeding of mammalian protein to ruminant animals.
+	4.680251226899777e-10
+The proposal also allows for the culling of animals and the compensation to farmers for loss of culled animals.
+	7.233796296296296e-05
+The principle of this approach cannot be faulted.
+	1.1574074074074074e-07
+Common rules will enhance the protection of animal health and more importantly will ensure protection of the consumer by ensuring that the highest standards of disease prevention and eradication are put in place in every Member State and can be activated when appropriate.
+	1.294291697315494e-12
+These rules will form a blueprint that can be followed in the event of any new scientific information being made available or if more radical action is required.
+	0.00012860082304526747
+However, I am aware, Commissioner, that the vast majority of Member States are of the opinion that the classification of countries for SRM removal purposes should be based on an internationally recognised code set out and agreed by the EU and the many - over 150 third countries - under the auspices of the OIE, the World Organisation of Animal Health, which is based in Paris.
+	1.4126249130738351e-24
+Most Member States are uneasy about the approach being taken by the scientific sub-groups and would prefer a more open and transparent system of classification as set out in the OIE code which is recognised and accepted by countries worldwide.
+	7.437872934948957e-08
+This view was made plain in Council working groups and was reflected in the final draft Presidency Proposal, a draft that is supported by the vast majority of Member States.
+	1.469723691945914e-05
+For the purpose of agreement and the speedy implementation of this regulation and hopefully to avoid a lengthy conciliation process, the use of common OIE criteria would be appropriate.
+	1.2715657552083333e-07
+Having discussed this with Mrs Roth-Berendt, we have tabled Amendment No 51 to Article 5 as a compromise to this effect.
+	4.6669653524492236e-08
+I welcome the principle of laying down common rules for the prevention and control of transmissible spongiform encephalopathies.
+	5.71559213534522e-05
+However, this proposal may have negative consequences for countries trading in sheep and this is an important point as it currently stands.
+	2.225783475783476e-06
+There is a view that there should be separate rules for scrapie rather than the current mix of rules where the treatment of SRM in sheep depends on the BSE incidence in that particular country.
+	9.020820920683745e-11
+I would reiterate in conclusion my support for the use of OIE provisions to have an internationally recognised basis for classification, a basis supported by 150 countries in resolving world trade disputes and recognised by the WTO.
+	3.8274054477758174e-08
+I make no case for leniency of treatment at all.
+	1.0
+The UK would be in class 4, Ireland would be in class 3 under either classification system, the SSC or the OIE.
+	4.0374677002583974e-05
+The OIE meets next week in Paris to consider amendments to their classification system and consequently I hope to bring further amendments to this regulation for second reading.
+	2.2605613425925925e-06
+Mr President, legislation which seeks to protect the public from a terrible brain disease such as new variant CJD should be drafted to complement measures already in place in Member States, to recognise the stage of the epidemic that we are at and have due regard to the body of scientific knowledge we have built up.
+	8.027033329584263e-18
+The United Kingdom already has comprehensive and effective measures in place to protect human health and eradicate BSE in our herd.
+	2.4112654320987654e-06
+This is working.
+	0.09090909090909091
+Cases of BSE are declining rapidly.
+	0.125
+But most importantly, so far, we have not had a case in an animal born since the complete feed ban was introduced.
+	1.7361111111111108e-05
+That should be happening around about now, if it was going to.
+	0.008888888888888889
+No older animals over 30 months of age enter the food chain.
+	0.5
+It is likely that cases may occur due to maternal transmission but these will be isolated and not feed-related, and there is no justification for a return to cohort culling.
+	5.480148709315375e-08
+Incidentally - and Mrs Grossetête referred to this - there has been recent press speculation about a third possible infection route through grass contaminated by faecal material.
+	2.0783971401255345e-10
+This only applies - as I understand - to animals excreting pathogens ingested with contaminated feed, not, as some newspapers inferred, from animals incubating or suffering from this disease.
+	2.3148148148148148e-07
+I am concerned about the practicality and cost of having to post-mortem all animals for which the cause of death is unknown.
+	3.4722222222222224e-06
+Very large numbers of animals die of natural causes or common ailments.
+	0.3333333333333333
+BSE is a degenerative disease which does not cause sudden death anyway.
+	0.0012345679012345679
+Amendment No 26 seeks universally to impose the whole-herd slaughter policy which some Member States with low levels of incidence have introduced in an attempt to reassure the public.
+	4.873294346978557e-05
+This could well result in the under-reporting of cases, as we have seen in Switzerland recently.
+	1.9290123456790123e-05
+BSE is not an infectious disease that is transmitted horizontally.
+	0.00130718954248366
+Whole-herd slaughter has no scientific justification.
+	0.03333333333333333
+The majority of herds that have experienced BSE in the UK have had only one or two isolated cases.
+	1.428898033836305e-05
+Most herds in Britain are not closed herds and therefore animals come in from all over the place.
+	0.008928571428571428
+If one of those animals gets a disease, why kill the whole herd?
+	0.01282051282051282
+Whole-herd slaughter is not an effective way of reducing cases of BSE.
+	0.00326797385620915
+It would cost a small fortune for no tangible benefit.
+	1.0
+I hope Parliament, in amending this directive, will do so in the light of sound scientific advice, not as a knee-jerk reaction to tabloid newspaper scare stories.
+	2.3570532083076882e-08
+It is my pleasure to give the floor to a Member of Parliament who received the title of Great Chief of Rangatira, when he led our delegation to New Zealand.
+	7.695527974783293e-07
+Mr President, I will omit replying to that particular remark.
+	0.000992063492063492
+Can I first of all thank you very much for giving me the floor and can I pay tribute to the rapporteur and indeed to Mr Böge.
+	1.2607923827967394e-07
+As someone who was in the last Parliament I know how much thankless time and effort they have put in since BSE first began in a very difficult area to try and find a resolution and a way forward to help everyone in a very sensible way.
+	1.5724681498402822e-13
+I think both of them not only take credit for themselves but indeed bring credit to this Parliament for the way in which they have carried out that duty.
+	1.224769743288262e-07
+BSE has unfortunately been with us for some considerable time and I suspect that we have to recognise that it will probably be with us for some years ahead.
+	2.6722248944471166e-08
+We have to try to find ways by which we can control the disease of BSE and TSE and at the same time create the consumer confidence that is needed because consumer confidence has been lost.
+	4.948564619346512e-13
+With respect to Mr Martinez I will only say one word to him - sludge.
+	0.00011904761904761905
+I will say no more as far as that is concerned.
+	0.0005952380952380953
+Everybody has problems in the European Union of one type or the other and no-one should try to make or take advantage of the other's problem.
+	1.0192527209079805e-09
+However, whatever we do, we should not overburden the producer because he has already been considerably overburdened.
+	0.0005952380952380953
+As to the argument whether you slaughter the whole of the herd, there is no scientific evidence to say you should.
+	6.210044573215927e-09
+There are many instances in my area where maybe BSE occurred five, six or seven years ago in one animal and there has never been another case since.
+	0.0009259259259259257
+Once we get to the stage where we have a vaccine or some way of identifying or testing if an animal has BSE, then there is an argument for testing the rest of the herd and if there is a trigger level whereby it goes beyond that, then the whole herd should be taken out.
+	1.815038280144012e-17
+But it would be wilful carnage to simply go in and slaughter good animals in the thought or the notion that BSE may possibly be in the whole herd.
+	1.065070090814181e-10
+That would be a drastic approach.
+	0.004310344827586207
+One other point: where I come from, in recent years there has been a continuing downward trend.
+	0.0024691358024691353
+Indeed, in Northern Ireland last year, we only had, I think, three identifiable cases of BSE and the projection for this year is one or at worst maybe two.
+	4.650297619047619e-07
+I was listening to what the rapporteur said that if there are clear reasons then she would agree for areas that have low instances of BSE to have certain controls and mechanisms.
+	4.54130626860119e-08
+That is an important thing to recognise because in my area farmers feel very secure because of the very low instances we have of BSE and because of the strict controls that we have monitored and made sure worked over recent years.
+	1.5023224896128702e-14
+That is perhaps why our situation is much better than the rest of the United Kingdom.
+	5.6612318840579704e-05
+This is an area which has to be looked at in the months ahead - we must create the confidence within ourselves that we can begin to move forward as we begin, hopefully, to see the back of the TSE/BSE problem.
+	2.178034736899177e-17
+Mr President, I would like to join in the congratulations to the rapporteur on her excellent report.
+	4.806942635935282e-08
+The report that we now have before us is an example of the kind of issue which requires of us the ability to demonstrate that the European Parliament places public health before internal market considerations.
+	1.0951698977284952e-10
+The EC Treaty - for instance, Article 30 and points 4 and 8 of Article 95 of that Treaty - presents us with both the opportunity and the duty to do so.
+	1.0850694444444445e-08
+The priority is to protect consumer health, particularly against diseases like TSE, the mode of infection of which is not adequately known and the testing of which so far is only possible after the symptoms have developed.
+	3.030750920184471e-09
+Secondarily - and this is justified by the notion of the internal market - we must be able to restore consumer confidence in the foods on the market in order to enable the market to function with a minimum of disruption.
+	1.8243367881719602e-19
+Both issues are important, but we must be able to show clearly the priority of values; public health comes first.
+	0.00015873015873015873
+The Committee on the Environment, Public Health and Consumer Policy has adopted a position that allows both of these objectives to be met.
+	3.9682539682539676e-05
+One important aspect of this view is the whole-herd slaughter on a farm where disease has been discovered.
+	3.086419753086419e-07
+Even without knowledge of whether any of the other animals have become infected, this action is nevertheless justifiable, precisely in order for the above objectives to be met.
+	8.558173672045306e-08
+At the same time, we must, of course, ensure that the breeder receives proper compensation for his livestock.
+	1.5873015873015872e-05
+In addition, the internal market must be able to operate in such a way that the spread of the disease is checked, and so that Member States, where no disease has yet occurred, can rely on the Community to protect the animal population of those States.
+	1.2772615434034479e-14
+In the Committee on the Environment, Public Health and Consumer Policy, I prepared a proposal for an amendment on this matter myself, stating as reasons for the issue specifically the above-mentioned prioritisation of values, where public health is the first.
+	4.2866941015089154e-09
+This objective has now been met in the Committee report - in a slightly different, but nevertheless satisfactory manner.
+	3.025901718712176e-07
+Extending the period referred to in the Annex to the Regulation (the scrapie-free period) from two years to six, may be an adequate means of ensuring that the imported animals and processed material are risk-free, and of preventing the spread of the disease to countries where it does not yet exist.
+	1.0742124264471366e-15
+Contrary to the Commission' s proposal, the report refers to instant tests, which are being used to detect TSE, by name.
+	6.808278867102396e-05
+This in itself is acceptable, but we must bear in mind that we are dealing with a technology which is continually being developed.
+	8.696589893171089e-07
+Hopefully, better tests than the current ones will soon be available, and when the time comes, it will be important that the currently approved regulations are kept up to date with the advances in technology.
+	2.5052108385441717e-08
+Mr President, I am pleased to outline our position on your amendments to our proposed regulation on the prevention and control of TSEs.
+	2.4112654320987655e-07
+I wish to begin by thanking you for the excellent cooperation between your assistants and my services.
+	0.004629629629629629
+Due to this thorough preparation I am in a position today to agree in full or in part to almost three-quarters of your proposed amendments.
+	1.2103606874848706e-06
+Furthermore, most of the amendments, which I am not in a position to accept, relate to two issues: the so-called "whereas" clauses - that is the recitals - and whether or not changes to certain provisions of the regulation should be by commitology or codecision.
+	6.7708819320154894e-21
+That is an issue which I have referred to before.
+	2.670940170940171e-05
+I know it is a controversial issue and I look forward to discussing this particular issue in the Committee on Agriculture and Rural Development which is scheduled for July.
+	2.3791176054550543e-09
+In substance, therefore, the Commission and Parliament are equally committed to a strong regulation which puts in place a comprehensive framework to tackle TSEs.
+	0.00013133701076963486
+I should like especially to thank Mrs Roth-Behrendt and Mr Böge for their huge contribution to this proposal.
+	1.2056327160493826e-05
+I can think of no other individuals who have made such a positive contribution to tackling BSE.
+	3.7202380952380956e-05
+They have both rendered an enormous service to the health protection of Europe's citizens.
+	0.00196078431372549
+I might also add that this piece of legislation is an excellent example of the good work and cooperation which has taken place between our two institutions and could provide a precedent for the future.
+	9.984535950719523e-10
+I turn now to the specific amendments and formal Commission position.
+	0.0196078431372549
+Firstly, on commitology, we accept Amendments Nos 6, 11, 12, 29, 30, 31, 32, 33, 34, 35 and 36.
+	0.07638888888888888
+With regard to the recitals, I also accept Amendments Nos 3, 4 and 5.
+	3.120461147421931e-05
+However, I cannot accept Amendments Nos 1 and 2 because it is inappropriate to introduce recitals in a piece of legislation which are not matched by substantive provisions in the text.
+	1.7471297821572355e-15
+However, I shall be raising your concerns on pharmaceuticals and cosmetics, which a number of you mentioned, with my colleague Mr Liikanen and I will ask him to address those concerns.
+	7.730364873222015e-07
+With regard to the articles themselves, firstly, the scope: I accept Amendments Nos 7 and 8.
+	2.3403458605664484e-05
+With regard to definitions: I can partly accept Amendments No 9 to Article 13 on the definition of TSE suspected animals.
+	1.0598968932302264e-07
+But the inclusion of "fallen cattle, sheep and goats" in the definition cannot be accepted.
+	7.620789513793627e-09
+It is not practicable to collect, incinerate and carry out a full epidemiological investigation on each fallen animal.
+	0.0010893246187363833
+The Commission will, however, be monitoring the situation closely both through the recently agreed measures on random testing for BSE and in the forthcoming proposal on animal waste.
+	1.9290123456790123e-05
+However, I accept Amendment No 52.
+	0.0037916666666666663
+I also accept Amendments Nos 10 and 49 to Article 3, with a slight reformulation to create the possibility of delegating the evaluation, not the approval, of tests to an external body.
+	1.0525364981383497e-08
+With regard to classification, BSE status: I accept Amendments Nos 13, 14, 51 and 58.
+	0.005967881944444444
+With regard to epidemiological surveillance: I accept Amendment No 15 to Article 7, introducing the mandatory use of the rapid diagnostic tests in the annual monitoring programme.
+	6.3601494006083384e-09
+Let me add, however, in passing, that we will keep under constant review the scope for increased testing of animals for BSE.
+	0.00020576131687242798
+On specified risk material: unfortunately I cannot accept Amendments Nos 16, 17, 18, 40 and 41 to Article 8, bringing under codecision the approval and conditions for use of rapid diagnostic tests.
+	2.9471021947873793e-10
+I happen to believe that it is essential to maintain the flexibility of the commitology procedure.
+	4.1407867494824014e-05
+Nor can I accept that tests should be capable of detecting infectivity in all products and at all stages of the disease.
+	4.528985507246377e-07
+That is the advice I have been given.
+	0.0019230769230769232
+I partly accept Amendment No 19 to Article 8, requesting a review of the age limits for SRM removal under a commitology procedure.
+	2.616747181964573e-06
+I cannot, however, accept the restraint of annual reviews and, in particular, the proposed deadline for the first review which is foreseen for 1 January next, which is too soon.
+	1.0568772439617644e-12
+I also accept Amendment No 20 to Article 8, which brings under codecision the principle of granting derogations from the provisions on SRM removal in high-risk areas or for taking account of an effective feed ban.
+	1.9290123456790124e-08
+I also welcome Amendments Nos 38, 39 and 56 to Annex IV.
+	0.00043402777777777775
+They mainly propose no longer requiring the designation of long bones of cattle as SRM and suggest a reformulation of the proposed derogation for the removal of a vertebral column under a commitology procedure.
+	1.1981443140863428e-06
+On feed ban, I accept Amendments Nos 22 and 42.
+	0.007957175925925925
+I can partly accept Amendments Nos 21 and 57 on condition that the possibility of extending the feed ban is allowed, irrespective of risk status.
+	8.981644784113919e-07
+I also partly accept Amendment No 54 to Annex V, laying down the detailed rules on the extended feed ban.
+	2.2569444444444443e-06
+I cannot accept the derogation for dicalcium phosphate, as this is against our scientific advice.
+	1.0683760683760685e-07
+I also cannot accept the limitation of extending the feed ban to any species, mainly pet animals, only if a risk of cross-contamination of livestock feed exists, as we believe that ruminant protein should be banned for all susceptible species.
+	1.3395919067215364e-12
+I identify cats here in particular.
+	0.5
+That is the advice I have been given in relation to cats.
+	0.0002403846153846154
+I can partly accept Amendment No 50 to Annex V where it exempts gelatine from hides from the ban.
+	6.250000000000001e-05
+However, I cannot accept the exemption for feeding cats with ruminant protein from the ban.
+	7.122507122507124e-08
+I also cannot accept Amendment No 23 to Article 9, ensuring immediate application of the feed prohibitions, as this amendment does not fully make sense legally.
+	1.431033615136876e-12
+On disease eradication: I accept Amendments Nos 25 and 28.
+	0.04774305555555555
+I also welcome Amendment No 24 to Article 11, but propose to reformulate, providing for "regular" rather than "immediate" notification.
+	4.340277777777777e-05
+I can also partly accept Amendment No 26 to Article 13 and Amendment No 43 to Annex VII, introducing whole-herd slaughter for BSE in cattle, sheep and goats and, secondly, excluding research animals from these provisions.
+	2.93872974537037e-09
+Whole-herd slaughter for BSE only, not for scrapie, is acceptable to me on condition of approval of equivalent measures by commitology.
+	4.1335978835978834e-05
+I cannot accept the second part of this amendment as it is in fact superfluous.
+	1.3778659611992944e-11
+I can partly accept Amendment No 44 on condition that the equivalent measures are approved on a case-by-case basis under commitology.
+	4.814814814814815e-07
+I do not accept Amendment No 27 to Article 13, requiring a complete standstill on a holding with a confirmed TSE case, as I consider the extremely strict conditions of our proposals are already sufficient, as they require measures to be taken under strict, official veterinary supervision, duly certified.
+	3.918306327160494e-11
+I also cannot accept Amendment No 37 to Annex II, as the proposed definition is not used elsewhere in the text and is, in addition, inadequate for TSE control purposes.
+	2.83289152677786e-14
+I should add that ADNS regions are too small and too difficult to control.
+	0.020833333333333332
+Bigger regions which are legally defined may be possible, for instance the Azores, and I refer to what Mr Nicholson said earlier about Northern Ireland.
+	7.0145903479236805e-06
+On the conditions for marketing animals: we welcome the intention of Amendment No 53 to Article 16.
+	0.000925925925925926
+However, I propose to reformulate the text to ensure approval of the equivalent schemes by commitology.
+	2.51610305958132e-05
+I also welcome the intention of Amendment No 45 to Annex VIII, but would ask for flexibility to determine the exact duration of the scrapie-free period.
+	4.717693236714975e-07
+I cannot accept Amendment No 55 to Annex VIII, reducing the protection measures against scrapie.
+	2.369791666666667e-08
+Furthermore, I cannot accept Amendment No 46 to Annex VIII, extending the ban on placing on the market offspring of TSE cases, for lack of scientific support.
+	2.1942515432098765e-11
+Finally, on laboratory techniques, I accept Amendments Nos 47 and 48.
+	0.04774305555555555
+Thank you again for your cooperation.
+	0.5
+I sincerely hope that this will continue to be a hugely important proposal and that we shall continue our cooperation on it.
+	1.970893839774214e-07
+The debate is closed.
+	1.0
+The vote will take place tomorrow at 11.30 a.m.
+	0.5
+Organisation of working time
+	0.45454545454545453
+The next item is the report (A5-0129/2000), on behalf of the European Parliament delegation to the Conciliation Committee, on the joint text approved by the Conciliation Committee for a European Parliament and Council directive amending Council directive 93/104/EC concerning certain aspects of the organisation of working time to cover sectors and activities excluded from that directive [C5-0183//2000 - 1998/0318(COD)].
+	1.1658949508808485e-20
+As President for today' s sitting, it is my honour to inaugurate a new procedure.
+	0.005952380952380952
+Before giving the floor to our rapporteur, Mrs Smet, we are going to hear from Mr Provan in his capacity as chairman of the European Parliament delegation to the Conciliation Committee.
+	2.3786495516275005e-10
+Mr President, as you say, this is a new procedure and I hope that it helps to establish in Parliament the importance of the conciliation procedure in achieving legislation to which Parliament has aspired.
+	1.6970607919346512e-13
+I want to say today how much I enjoyed the support and the great help of the rapporteur and the Chairman of the Employment and Social Affairs Committee.
+	1.8027869875354444e-11
+Mrs Smet, our rapporteur, was President of the Council of Ministers when the original Working Time Directive was enacted.
+	2.6485295364013896e-06
+Mr Rocard is a former very well-known French minister and indeed Prime Minister.
+	0.0005787037037037037
+We had an exceedingly strong team which Parliament was able to deploy in the negotiations with the Council and I am extremely grateful to both of them. Parliament should be extremely grateful to both of them - especially the rapporteur for all the work that she put into this negotiation.
+	6.503176394247188e-18
+The delegation also had a great responsibility in this negotiation because we had many difficult decisions to take.
+	0.0005341880341880341
+We did not achieve everything that we wanted to achieve as a Parliament, but I think we went a long way towards helping all those people who are now going to be included within the Working Time Directive to see some progress so that they can eventually get to the goal that we were all trying to achieve.
+	2.9045055262254457e-18
+If we take, for instance, the junior doctors, we discover that Parliament originally wanted a six-year period in which to achieve the 48 hours.
+	1.0850694444444445e-05
+That was never likely to be negotiated with the Council, but we were able to make substantial progress from the Council's original proposal of 13 years.
+	9.015603557513887e-10
+Indeed, we finished up with a nine-year period.
+	0.125
+Only in extreme circumstances will governments be able to go through a procedure to justify an extension of that period of nine years.
+	4.8225308641975306e-05
+The interesting thing in this aspect is that we are making real progress on reducing the time of work for junior doctors.
+	2.8183393172313706e-07
+As many people will be aware, today, many junior doctors are working 72 hours in some countries.
+	0.00013020833333333333
+The progress that we are making is that in the first three years, the junior doctors' hours will be reduced to 58 and over the following two years to 56 hours and 52 hours respectively.
+	2.944831141011432e-13
+We see that the junior doctors are, in fact, going to get a great benefit from this extension to the directive.
+	8.405282551978267e-09
+We also were able to clarify the position regarding the classification of mobile workers.
+	0.003472222222222222
+The case was argued that, for instance, somebody driving a lorry for a large retail store should be included in retail-type legislation for working time, and only genuine transport workers are now going to fall exclusively within the transport sector.
+	3.4446649029982355e-09
+That, I think, was another major achievement for Parliament in this negotiation.
+	0.005494505494505495
+We move on to the fishermen who were greatly concerned by the application of this directive to their working life because they felt they would not be able to operate properly within that system.
+	3.553369585353365e-12
+In all honour to everybody concerned in the negotiation, the Council and all Members of the delegation, they have made real progress and I recommend the outcome of the conciliation process to the House and hope they support it.
+	9.502992185284893e-15
+Thank you, Mr Provan.
+	0.125
+I think we can in fact thank all the Members of Parliament that were involved in this conciliation procedure.
+	3.028276837800647e-07
+Mr President, I would first of all like to thank the President, Mr Provan, for his kind words, but particularly for the way in which he, together with Mr Rocard, has presided over and guided the entire process.
+	6.201814382970076e-10
+I would also like to thank all the delegates, as it would indeed be impossible to find a compromise on a number of difficult and sensitive issues, if it was not for the fact that everyone moderated their demands, and this is what eventually happened.
+	8.762375109376873e-15
+My thanks go to all of you.
+	0.05
+The vote in the European Parliament tomorrow and in the Council the day after will provisionally end a decade of European legislation concerning certain aspects of the organisation of working time.
+	1.0480094715105214e-09
+I am adding "provisionally" , because although a number of sectors and activities are already covered by conclusive horizontal legislation, the vertical rules are still pending.
+	9.920634920634918e-07
+The best way to establish these vertical rules is via collective labour agreements, but if these collective labour agreements are not forthcoming, then the Commission will need to take the initiative and propose draft directives.
+	1.1022927689594356e-07
+This has already happened in the case of road transport.
+	0.0030864197530864196
+The European Parliament has made its position clear but it appears that the Council is unable to adopt the common position.
+	9.996501224571398e-06
+This is intolerable, really intolerable, because road transport is one of the key sectors, there are many difficulties within that sector and because so many accidents happen within the Member States due to a lack of legislation and control.
+	3.430500746582347e-13
+I would call on the Council and both sides of industry finally to resolve this matter.
+	1.0829542993285681e-05
+Since no draft directive has been proposed for inland shipping yet, I would ask the Commission to work on that.
+	2.1433470507544583e-06
+Fortunately, agreements have now been concluded within aviation, navigation at sea and also rail transport, which have been translated into directives.
+	0.00016534391534391533
+Like rail transport, the sea-fishing and off-shore sectors, as well as the activities of junior doctors, fall within the scope of the directive which we are discussing today.
+	2.9624447326310677e-09
+For the sea-fishing sector, the European Parliament managed to secure a maximum working week of 48 hours, over a twelve-month reference period.
+	1.0881608103830326e-05
+Exemptions are only possible under a collective labour agreement or following consultation involving both sides of industry.
+	0.05555555555555555
+It is indeed necessary to provide for these exemptions, because not only do sea fishermen stay at sea for extended periods of time, in certain countries even 3 000 hours on average annually, they also carry out heavy work at what is by far the most mobile of workplaces.
+	3.6168981481481483e-06
+Regarding junior doctors, I would refer to what Mr Provan said, because he explained quite clearly what we eventually achieved.
+	2.143347050754458e-07
+The main thing is that those countries that want a transitional period in excess of nine years will need to follow a very demanding procedure in order to achieve this.
+	1.205632716049383e-07
+The reason why they want to have an extended transitional period and the decision which is eventually taken have to be published in the EU' s Official Journal.
+	3.285890666016327e-11
+I hope that this procedure will create a disincentive for those countries because we do not intend to carry on applying the number of working hours prescribed for longer than nine years.
+	3.7578162578162576e-07
+In 1993, when I, in the capacity of President of the Council, signed the directive concerning certain aspects of the organisation of working time, I was aware that the Commission' s proposal of 1990 did not exclude any sectors or activities.
+	8.242391181114449e-15
+But at the time, it appeared impossible for the Council to draw up a directive which covered all employees in all sectors and activities.
+	7.691436785004032e-09
+Hence the Commission proposed to take a separate and additional initiative for the benefit of those sectors and activities which were excluded from the Council' s directive.
+	2.4405520567801266e-09
+That culminated in the 1997 White Paper and the 1998 consultation paper and communication.
+	0.00038580246913580245
+The present directive is the first to be born out of negotiations in a Conciliation Committee within the framework of the European social policy, with the European Parliament acting as co-legislator.
+	6.374447365730264e-13
+The power of codecision proved to be decisive.
+	0.023809523809523808
+I think we owe our success, the fact that we eventually reached a sound compromise, to Parliament, among other things, which in its wisdom, only tabled a few amendments.
+	3.0619243582206537e-06
+Indeed, had we found ourselves in a conciliation procedure faced with 30 or 40 amendments tabled by Parliament, it would have been extremely difficult ever to reach a compromise.
+	1.6339869281045753e-05
+In this case, we managed to keep the procedure within bounds.
+	0.016666666666666666
+As such, the European Parliament gave evidence of a legislative maturity, which the Council and the Intergovernmental Conference, in particular, would do well not to lose sight of.
+	6.903275817749503e-08
+Mr President, as British Conservatives, we have always opposed the Working Time Directive.
+	0.0010416666666666667
+The idea that politicians in Brussels or Strasbourg should determine how many hours different people work across Europe is, we believe, fundamentally daft.
+	0.125
+To extend it to groups such as offshore oil workers and sea fishermen is particularly so.
+	0.0010416666666666667
+However, because of the special issue of over-worked junior doctors in the UK, as Conservative MEPs we voted last November to extend the directive to them.
+	2.4961339876798807e-09
+We very much hoped that this would pressure national governments - especially our own - to produce a better deal.
+	1.1574074074074074e-07
+Certainly Parliament as a whole was of similar mind, hence the Conciliation Committee on which I was privileged to serve.
+	1.638504864311316e-06
+I extend congratulations to you, Mr President, in your former capacity as president of that conciliation group - plus Mrs Smet and Mr Rocard.
+	5.358367626886145e-08
+I believe in the circumstances we could not have done any better, but those three played a major role in that.
+	2.5720164609053497e-05
+I should briefly like to mention a point made by some of my colleagues from that delegation.
+	0.00013020833333333333
+I hope other nationals will forgive me if I mention only other British colleagues, for a reason that will become apparent.
+	0.0008680555555555555
+The first speaker in the main meeting was Mr Hughes.
+	0.0020576131687242796
+I am not known for agreeing with him regularly but I congratulate him on the intensity of what he said which set the meeting off to a very good start.
+	5.91016548463357e-07
+He was followed by Mrs Lynne - also due to speak today - who reinforced what was said with great vigour.
+	3.472222222222222e-07
+I mention that because, when it came to my turn to speak, it enabled me, as a British delegate from a third party, to speak in support, despite the fact that all three parties have many different policies on different issues.
+	2.592758529138457e-08
+The fact that I could say that on this issue we were speaking as one and it was a cross-party alliance hopefully helped to reinforce the overall message and the will of Parliament.
+	8.832474110251888e-09
+One of my colleagues afterwards said that point was a powerful intervention.
+	0.009615384615384616
+Certainly it was meant to be.
+	0.2
+Imagine my disappointment after the meeting when an official came up to me and said that while I was making those points on behalf of Parliament another Member also from the UK was busy shaking his head negatively the whole time that I was speaking.
+	1.1460455626348041e-10
+That will not have strengthened our case.
+	0.02857142857142857
+It may or may not have made any difference but certainly it will not have done the Parliamentary delegation any good service.
+	0.0004761904761904762
+A few weeks later, we did the best that we could.
+	0.012345679012345678
+It will be presented - as you, President, have already presented it - as "nine years".
+	5.208333333333333e-08
+But it is, as you know, nine years, plus two years, plus one year.
+	6.200396825396825e-06
+The UK Government will add that up to twelve years as against the 13 years which the UK Government was asking for initially.
+	2.066798941798942e-06
+Having only got what we consider minor concessions, we can confirm that, as British Conservatives, we neither support the Working Time Directive nor its extension to any other grouping.
+	2.8935185185185186e-05
+We still support a better deal for junior doctors; we will still continue to pressure our own government to provide it, but a directive from the European Parliament is clearly not the right way to secure it.
+	1.8165077630592828e-11
+I would like to begin by echoing previous speakers and adding my words of thanks to the rapporteur and to our chairman and to you for the magnificent work you did in that conciliation.
+	1.1522323434859076e-10
+The progress we achieved is in large part thanks to the formidable effort and attention to detail the rapporteur put in to this.
+	5.67356572258533e-07
+There are three main issues which I would like to concentrate on in the brief time available to me.
+	3.3621130207913075e-07
+In the original working time directive we had agreed way back in 1993 that it would be possible to introduce annualisation of working time for categories of workers, but only where collective agreements allowed that to happen.
+	3.4639952335425564e-10
+The first two points I would like to make relate to categories of workers where we have managed to achieve that progress in the conciliation.
+	7.263824427635538e-10
+As far as offshore workers and mobile workers in the transport sector are concerned - there was an attempt in the common position to allow annualisation of working time for those workers without collective agreement.
+	3.9152868579356523e-14
+Thanks to conciliation, collective agreement will now need to be the route for an extension to annualisation.
+	1.503126503126503e-06
+That was an important point of progress.
+	0.013888888888888888
+The second point concerns sea-fishing.
+	1.0
+There we have now built in to the directive the principle that a 48-hour average working week over a period of one year will be the rule.
+	1.94927702967956e-11
+That can be subject to derogation but again only after attempts to broker collective agreements to involve the social partners.
+	0.020833333333333332
+That should be the rule wherever there is an attempt to introduce annualisation and that principle has been safeguarded as a result of the conciliation.
+	5.96250613959257e-11
+The third area I want to concentrate on - and it is what other speakers have mentioned - relates to junior doctors.
+	3.8651824366110076e-10
+Looking at this part of the agreement without detailed knowledge of the negotiations that went into it, it must seem like a very strange animal.
+	2.8844591800567105e-08
+A four-year transposition period - five years transition and then the possibility of extra time beyond that.
+	5.555555555555556e-06
+But of course that was to take account of the special difficulties facing one or two Member States.
+	5.367686527106816e-06
+I would repeat what other speakers have said: for us the period in question is nine years.
+	1.2860082304526749e-05
+That will be the normal period within which Member States will be expected to comply with the requirements of this directive in relation to junior doctors.
+	2.8962073431136067e-09
+That is why the procedure to go beyond that into what we might term extra time is so open - in a way humiliating for any government that attempts to take that step.
+	7.598525521319639e-12
+I think that in fact we will see all Member States complying with that section of the directive relating to junior doctors within that nine-year time frame.
+	7.125946416896277e-10
+I am confident, speaking today, that will be the case.
+	0.0005681818181818183
+A further important point might have been missed.
+	0.027777777777777776
+The provisions relating to nine years for junior doctors only relate to the average working week.
+	3.829656862745098e-06
+The other provisions of the directive relating to daily and weekly rest breaks, annual leave and nightwork will, of course, apply to junior doctors after a three-year transposition period just as they do for all other workers.
+	2.1061130521048996e-09
+Those parts of the directive can, of course, be subject to derogation but only by collective agreement so those elements will apply to junior doctors.
+	7.763975155279503e-06
+The sections dealing with annual leave cannot be negotiated away and it is important to bear that in mind: i.e. the nine years for junior doctors applies only to working time - average weekly working time - and the other provisions of the directive apply after three years.
+	1.4536627104487611e-24
+The final point I would like to make relates to the transport dossier.
+	2.0765992187240423e-05
+It is very important that we get movement in that area in the Transport Council.
+	1.6237477657230742e-07
+Maybe the Commissioner has some news for us today.
+	0.025
+There was an agreement in the rail sector that the provisions of the working time directive would apply in that sector so long as there was parallel progress in other transport sectors, particularly the road sector.
+	4.0855167213241596e-13
+Unless we get progress in that sector, I am quite certain we are going to see a problem for the rail sector.
+	2.8906278906278903e-09
+The agreement will not be implemented in the near future at national level.
+	4.8990789731530466e-05
+Mr President, I would also like to add my thanks to Mrs Smet in particular for doing an excellent job of work on the working time directive and also, of course, to Mr Rocard and to you, yourself.
+	2.2154400945109142e-16
+I would agree with Philip Bushill-Matthews as well.
+	0.018518518518518517
+I think the strength of having all-party support throughout the UK on our delegation was very, very useful.
+	4.650297619047619e-05
+I would like to talk specifically about junior doctors.
+	0.01906318082788671
+I am very pleased that they are going to be brought in line with the working time directive.
+	2.9227459783015337e-08
+There are 270 000 junior doctors across the EU who will be affected by this.
+	1.3020833333333334e-05
+50.1% in my constituency work over 72 hours a week as do 10 000 in the UK as a whole.
+	1.4749915187987667e-05
+You can see from those figures that it is extremely important that all Member States actually meet those objectives and I mean the nine-year objective.
+	7.120072909546593e-07
+The present situation is not good for patients or doctors alike - they have our life in their hands.
+	2.1626297577854673e-07
+We would not want to be treated by a drunken doctor and I do not believe that we should be treated by an over-tired doctor.
+	1.1183976957786484e-11
+Evidence proves that somebody who is impaired by tiredness is impaired in the same way as drunkenness.
+	0.0006172839506172839
+The British Medical Association was saying that 15% of junior doctors were leaving the profession citing stress, overwork and length of hours.
+	0.005208333333333333
+A lot of those were going to Australia and New Zealand where the working practices were better.
+	0.00026041666666666666
+We have to stop that drain.
+	0.14285714285714285
+The nine-year timetable, of course, is an improvement on what the Council of Ministers wanted.
+	5.4824561403508766e-05
+It is made up of four years' implementation and five years to bring down the working time from 58 to 48 hours.
+	6.028163580246913e-06
+It is far better than what the Council wanted which was the 13-year period.
+	0.00013706140350877192
+I, of course, would have preferred a shorter time.
+	0.02222222222222222
+As I have said before, our life is in their hands and it is important that we get this right.
+	3.028276837800647e-08
+The UK Government, of course, was part of the problem.
+	9.057971014492751e-05
+They maintain that they cannot achieve the reduction in this timescale.
+	1.4245014245014247e-07
+I believe that they are wrong and that is why we have the extension for two years and also the extension after that for one year.
+	6.889329805996474e-10
+But as everyone else has said, it has to be in exceptional circumstances.
+	0.0017857142857142857
+There must be rigorous notification and justification procedures and I hope that the British Government, and other Member State governments who feel that they can delay further by seeking two years and then another will feel so embarrassed that they will not seek to do so and meet the goal in nine years.
+	2.0135760983669067e-14
+It is not twelve years - it is nine years and we must state that very, very clearly.
+	3.12625050020008e-10
+It is long enough - I would have liked it to have been shorter, but let us hope the governments, and the British Government in particular, adhere to that.
+	3.92458566422325e-12
+Mr President, I must apologise for this appearing to be a British show at this moment.
+	1.24720625798212e-06
+I assure you that it does change with the next speaker.
+	0.0015151515151515152
+I also would like to thank Mrs Smet, our rapporteur, for the excellent work that she has done throughout this entire process.
+	1.5322129652043714e-07
+With the support that she has received from Mr Rocard and from yourself, she has managed to make progress in face of the tensions between the high expectations of those whose lives will be affected by these decisions, some six million workers, and the difficulties and some intransigence presented by certain Member States.
+	5.687805310468479e-13
+I speak as my group's representative on that parliamentary delegation and I know what I have seen.
+	7.946598855689765e-05
+This is a health and safety issue, as has been said, for both the workers concerned and for the public.
+	6.494991062892294e-08
+While I recognise, like others, that junior doctors are not the only group affected, this issue has proved the most difficult.
+	5.9523809523809524e-05
+I have been deeply concerned at some of the arguments put forward by certain governments which have said that other aspects of health provision could be threatened if the reduction of working time for this group was brought in more quickly.
+	4.848745119813288e-14
+I cannot understand why it is less important for these workers to have reasonable working conditions and hours than any other group of health workers.
+	1.5500992063492062e-09
+I want to know whether junior doctors in some countries are some sort of superhuman who can do without adequate rest and who will not harm their own health or that of their patients in the process.
+	1.530962179110327e-08
+The mother of one such trainee doctor said to me recently that she had been writing to the British Prime Minister and his wife, Tony and Cherie, to ask if they would be happy if their new baby were to be delivered by a tired, stressed-out doctor in a semi-drunken condition as that described by Mrs Lynne.
+	1.051080751297802e-12
+I consider that would be a real health and safety issue requiring rapid action.
+	0.00023946360153256704
+As we have all said, we must be clear that nine years has to be seen as an absolute limit, that anything more is an aberration.
+	7.381424792139077e-09
+Any country not managing that should not be surprised if they find their staff moving elsewhere, to countries which have managed to implement more modern working conditions.
+	7.936507936507937e-05
+The stepped approach which has been brought in must not be used to simply give a redefinition of working time such as removing meal breaks or time spent on call but not actually treating patients.
+	2.783567598382412e-08
+That would simply be following the bad practices recently tried out by certain burger chains.
+	0.16666666666666666
+However, at least some of those chains pay their part-time 17-year-old staff more per hour than some junior doctors get in overtime payment.
+	0.0001953125
+I would like to congratulate in advance those Member States that will meet their obligations under this directive for all sectors.
+	5.700711970061815e-06
+The progress of others will be monitored very carefully.
+	0.016666666666666666
+I acknowledge the Commission's role in this and hope that the Commissioner at that time will show the same commitment as that shown by Mrs Diamantopoulou.
+	6.331117442228554e-08
+Regretfully I am not sure that my group will be able to fully support the proposals overall despite the improvements that Mrs Smet and the Parliament team have been able to obtain in this very difficult situation.
+	1.1181155738527777e-13
+Mr President, I too want to thank and congratulate Mrs Smet on an excellent piece of work in the Conciliation Committee and also on her report.
+	8.507289962921912e-13
+I also want to thank other key people such as Mr Provan and Mr Rocard.
+	9.04224537037037e-06
+They have played an important role.
+	0.125
+The Parliamentary delegation was basically very much in agreement, even though we differed in our willingness to compromise when it came to the crunch.
+	8.169934640522875e-05
+It was, of course, important to solve problems.
+	0.008333333333333333
+The idea was that seven million people should be brought within the scope of the directive.
+	4.658385093167701e-05
+When I learned that the whole thing was to go off without a hitch, that is to say that there was to be an agreement, I nonetheless took the liberty of voting against.
+	5.815620813334576e-12
+I wanted to make the point that, in spite of everything, I was not satisfied with everything in this compromise.
+	4.7695360195360195e-06
+I was especially critical of the agreement when it came to the issue of young doctors.
+	2.537246782771079e-06
+If the decision is interpreted as it already has been by some people in this debate, namely as saying that the transposition and transitional periods for doctors should add up to nine years and that there should, above and beyond that, be the possibility of an additional three years' extra time, then we arrive at a total period of twelve years.
+	3.776377151515959e-19
+This is really little different from the Council' s position, involving thirteen years.
+	0.0005520794994479205
+There was, therefore, not so much of a compromise on that particular point.
+	3.3820346320346314e-05
+I think this is a serious matter, because it is about patients having to suffer and about doctors being placed in impossible situations, from both moral and personal points of view.
+	1.8169661026803883e-05
+Young doctors do not choose these working conditions and working hours but are forced to accept them.
+	0.0027777777777777775
+I thought it was appropriate for at least someone in this Parliament to use his voting right for the purpose of indicating this dissatisfaction.
+	8.903133903133903e-06
+I now hope to see the three extra years become a facility which cannot be counted upon but which is only granted in really exceptional cases.
+	1.2718762718762715e-09
+The intention expressed by this Chamber has, of course, been that, where junior doctors are concerned, the period for implementing the present directive should be nine years and that the three extra years should only apply in extreme and exceptional cases.
+	9.525986892242036e-12
+Naturally, we hope that, in reality, the process will be still more rapid.
+	0.0006250000000000001
+We also want, in the future, to see the working time directive apply to those groups which have still not been brought within its scope.
+	6.075246742501298e-09
+In common with Mr Hughes, I should like to ask the Commission a question regarding these groups. How far has the work progressed when it comes to the transport sector and lorry drivers?
+	2.659483932461874e-09
+I want to conclude by saying that, on more than one occasion, the European Parliament has shown itself to be a significant force where working time legislation in Europe is concerned.
+	5.558931342952912e-09
+I hope that this will continue.
+	0.041666666666666664
+It is not just a question of establishing longest permitted working times but of a good deal else besides.
+	4.3767507002801114e-05
+There are ever more differences in the way in which working time is distributed in our society.
+	1.4631915866483766e-06
+For young families, the difficulty of reconciling full-time work with family and children is becoming ever greater.
+	0.25
+Working time puts the squeeze on women and children, in particular.
+	0.5
+It is also an issue relating to age and to where one is in one' s life.
+	5.425347222222222e-07
+Young and old have different needs and different abilities.
+	1.0
+We need a whole series of changes to working time policy, and it is my hope that it will be possible for the European Parliament to come back with more initiatives in this area.
+	4.49911764020609e-13
+Mr President, I join in the congratulations to all involved with this matter.
+	1.1431184270690445e-05
+Rather than reiterate what other colleagues have said, I think the core issue is the junior doctors in training.
+	1.7361111111111108e-05
+Obviously, whilst nine years is not the perfect solution which Parliament originally sought, it is the best possible compromise.
+	5.8356676003734827e-08
+It is incumbent on us to send out a clear message that we would expect every government in the European Union to comply fully with the nine years.
+	5.939635174112753e-09
+Even though I know there are rigorous tests and standards as to whether or not an extension would be granted, it should only be granted in the most exceptional circumstances and not for any willy-nilly ideology.
+	6.460223315593827e-12
+In addition, as Mr Hughes pointed out, the other parts of the entitlements come into force immediately.
+	2.464754017549048e-05
+Even though the overall reduction in working hours may be postponed for some time, the actual rest-period times and so on come into force immediately.
+	4.6296296296296294e-05
+I shall just deal very briefly with two other points concerning the whole working time directive.
+	0.004487179487179488
+Firstly, concerning fishermen, there is some attempt to compromise within the proposals before us.
+	0.0010822510822510823
+However, it is a notoriously difficult area to enforce because of outside conditions, such as bad weather, that will affect the way fishermen operate.
+	1.2917493386243386e-06
+Perhaps we should review this at some stage in the near future and look at it anew to try to come up with a better solution.
+	3.189504539813181e-08
+Secondly, transport workers: when we already have tachograph legislation in place, why do we need to bring in a separate and new directive on transport workers, in particular lorry drivers and so on?
+	3.9399761962398125e-10
+Perhaps now is the time to look at this afresh.
+	0.0003472222222222222
+New technology - in particular digital tachographs and individual smart cards for individual drivers on the tachograph - could be the best way to regulate the hours during which drivers are on the road and at work.
+	5.260942760942761e-13
+It will also ensure that they can have equal benefits with every other worker in the Union.
+	4.286694101508916e-05
+Finally, I wish to pay my compliments once again to Mrs Smet.
+	0.1111111111111111
+I have one small, further request to the Commissioner.
+	0.0007541478129713424
+Perhaps now is the time, after we have agreed this conciliation and brought this new piece of legislation into being, to carry out an impact assessment on how the existing legislation is working, whether it is of benefit to the workers - increasing their health and safety - and whether it is increasing employment, which is one of the original arguments behind it.
+	1.4487380376659682e-22
+Mr President, I too would like to convey my heartfelt thanks to everyone who took part in the negotiations on our side, especially the rapporteur but also you yourself and Mr Rocard, as well as other members of the negotiation delegation.
+	1.1565617189042656e-12
+I would like also to extend warm thanks to the Commission, particularly for their declaration on working on Sundays.
+	1.4832851562314587e-06
+This was a major obstacle for us, mainly because the Commission had skirted this thorny issue a little too easily in the past.
+	3.6638411124007827e-07
+The declaration was therefore a great help to us.
+	0.041666666666666664
+I would like to say one thing to the representatives of the GUE/NGL Group and the Greens.
+	1.587074810505807e-09
+If you vote against this compromise - and I would understand if you did, because I myself find nine years for junior doctors far too long - you will then be against everything, in effect.
+	2.989172023262932e-12
+If this line were to be taken across the board, and if Parliament were to say "no" , then we would not have a solution in nine years, or ninety years.
+	1.020641452740218e-12
+If it were up to the British Government - we heard this quite clearly in the negotiations - it could well be 50 years and maybe longer before they resolve this issue.
+	6.484075111526091e-13
+The first problem was that they appeared unable to train a sufficient number of doctors.
+	0.0013227513227513227
+If, therefore, you do not train sufficient doctors, you need to obtain them from other countries.
+	0.00625
+If this plan fails too, then the whole procedure could take a very long time.
+	0.00042735042735042735
+If this is not something you want, then you need to approve this directive now, obviously with the reservation that it is an empty exercise - I am still convinced of this - and junior doctors should not need to be in this exemption position at all.
+	4.2413985070697503e-23
+That is the problem.
+	0.025
+I have one question for the Commission. It concerns the other matters at issue, specifically that of transport.
+	2.826391715280604e-06
+I would like to know how the Commission intends to deal with this.
+	1.3074883969743967e-05
+It is now up to the Commission.
+	0.0007002801120448178
+The working time directive will not be complete until these issues have been resolved.
+	1.1022927689594354e-05
+The ball is now quite clearly in the Commission' s court.
+	0.00012193263222069806
+The Transport Council is behaving badly.
+	0.125
+Transport conjures up images of action and movement, but the Transport Council must be the most inactive of all councils and does absolutely nothing.
+	1.8939393939393943e-05
+I wonder if the Commission can think of a way to resolve this.
+	2.2045855379188715e-06
+Failing this, Mr President, we should seriously consider taking legal action against the Transport Council, as was done very successfully a couple of years ago before the Court.
+	0.00018601190476190475
+More of this later.
+	0.0625
+Finally, Mr President, one of the first people to propose working time legislation was Winston Churchill.
+	5.591340132402934e-07
+That was a key moment in history, not only in the history of Great Britain, but also in the history of Europe as a whole, because in the Netherlands too, we adopted this legislation without questioning it.
+	1.4007516797709087e-10
+That makes it all the easier to bring this directive about.
+	0.0010822510822510823
+We thus have the feeling that we are in a way completing Winston Churchill' s work with this directive, especially if we bear in mind that he did at least manage to bring a terrible war to a successful end in five years, while the present British Government would not even be capable of resolving the problem of junior doctors in 50 years.
+	2.271743034825955e-17
+He - more than anyone - should be in our thoughts when dealing with this subject matter.
+	9.25925925925926e-09
+Mr President, for me it has been a real privilege - and a surprise - to attend this conciliation procedure and to witness first hand the resistance and difficulties we have had to face in order to make progress.
+	5.599130226631291e-17
+This is demonstrated by the excellent work of Mrs Smet, and also Mr Provan and Mr Rocard.
+	3.3402811180588945e-06
+I would also like to thank the Commissioner, Mrs Diamantopoulou, her department and so many people - also the Portuguese Presidency - who have allowed Parliament, like Churchill, to set a milestone in the construction of a social and more humanitarian Europe.
+	5.695543821094966e-15
+I am convinced that there is another reason for recommending that Parliament vote in favour of this report: the difficulties we have faced in making progress with regard to certain governments.
+	1.8495501893939394e-08
+I will be truly happy to see these sectors, which were excluded from the 1993 directive, provided with a recognised European regulation on working time, even if it does involve long and protracted timescales.
+	7.665325745682888e-09
+However, we should not be dazzled by the light.
+	0.001020408163265306
+There is no doubt that public opinion - and I too am concerned about this public opinion - does not understand why these procedures are so slow and why, with regard to the problem of young doctors or fishermen, we have not been able to make any progress.
+	1.6539320251826574e-17
+It is not acceptable - since we all agree that we cannot continue to ask these young doctors to work these exhausting hours and that we cannot continue to put our patients at risk - that we have not been able to make speedier progress.
+	1.297111504934917e-20
+I hope that, in fact, the timescale will be nine years and not thirteen years, although it pains me to say that, as a Spaniard, I feel restricted by the fact that it has been my government which has insisted most on having this additional period.
+	1.881366733161692e-15
+They may have requested this additional period, but we should take great care to ensure that they do not use it.
+	6.613756613756613e-06
+Lastly, I would like to ask the Commissioner and the Commission, to monitor closely the application of the directive, so that in nine years time they do not ask for three more.
+	4.2825828219997963e-13
+Mr President, in previous debates here last November and in April of this year I supported the general principles behind the idea of directives on working time and I still do so.
+	5.1376394149831644e-09
+Clearly there are significant health and safety issues which can be addressed - not only for the protection of workers but also for the protection of their customers and the general public - and issues of customer health and safety of course are particularly relevant in relation to doctors in training.
+	2.8190065377136696e-18
+Like my colleague, Mrs Lambert, I am concerned that this compromise has not gone quite far enough in relation to doctors' hours.
+	1.2860082304526745e-05
+There would remain though some workers in some working places where practical issues do not readily lend themselves to the implementation of this type of directive.
+	1.0212418300653594e-05
+Coming from Scotland, with one of the largest EU fishing fleets, I would like once again to focus on the problem of fisheries and the defining of working time.
+	1.0678648075635854e-08
+I note the compromise concerning sea-fishermen - a maximum of 48 hours of weekly work in a reference period of 12 months and the possibility of derogation after consultation and by agreement.
+	2.243939568014706e-11
+This may be an improvement but I still have some questions to put to the Commission.
+	8.714596949891067e-05
+We have to recognise that there were good reasons for the initial exclusion of the fisheries sector.
+	1.4377731769036115e-06
+As regards fishing there is a deep-seated suspicion of Brussels in many respects and a lot of opposition to the whole idea of fishermen being told when to sleep or when to go to sea, given that their working time is governed by uncontrollable factors such as climatic conditions and the movement of shoals of fish.
+	9.278111898096073e-15
+The directive says that work at sea comprises sea fishing and other offshore work.
+	0.011111111111111112
+Many fishermen, particularly in Scotland, are organised on a family basis - they are share-fishermen paid only a proportion of their vessel's catch.
+	1.0416666666666667e-06
+They are clearly not employees in the sense of the word that we would understand.
+	4.141733431409581e-07
+Is this directive going to affect them or is it not?
+	0.004545454545454546
+I have asked the Commission this question previously in committee and in plenary and have not yet received absolute clarification of this point.
+	2.473092750870529e-07
+The Conciliation Committee concluded in the case of those share fishermen who are employees - a statement which seems to me to be contradictory - that it is for Member States to determine the conditions for entitlement to annual leave and payments etc, but there is no explanation as to whether or when a share fisherman is employed.
+	1.4834087705793776e-23
+I know for sure that the fishermen that I see around the coast of Scotland can only be defined as self-employed and I stress the need for clarification of this.
+	7.014590347923681e-06
+There are huge differences between a large-scale long-distance fleet where fishermen are employed by companies and sent off for months on end and the smaller- and medium-sized boats, which operate on a family or a cooperative basis.
+	4.6296296296296296e-06
+This is an issue about the definition of self-employment or owner operation and I know that the compromise deletes own-account transport operators, clearly and quite properly identifying an exception in that area.
+	9.661970176203416e-09
+I call for a similar exception for share-fishermen.
+	0.027777777777777776
+Mr President, ladies and gentlemen, it is crucial that all employees are assured a decent working environment in order to guarantee that their health and safety is protected, which requires an organisation of working time that allows daily and weekly rest breaks, annual leave, holidays and other aspects. This is why an appropriate solution must be found to the problem of all workers in activities that were excluded from the scope of Directive 93, specifically in the area of transport, fishing and the activities of junior doctors.
+	1.222793955848964e-23
+The truth is that, despite a positive proposal by Parliament, which sought to respond to these issues, the Council has insisted on an unacceptable position. This substantially reduces the initial proposals of the European Parliament, specifically the increase of the period for transposing the directive to all sectors from two to three years.
+	7.551892785292723e-15
+The only exception made concerns junior doctors, for whom the period is extended from four to nine and possibly to twelve years. Apart from anything else, this also threatens the safety of the patients themselves who are examined by doctors who work excessively long hours.
+	9.435386473429951e-07
+That is why we have voted against this agreement, since what we want, of course, is a better agreement.
+	1.1022927689594356e-07
+It was never going to be easy to satisfy all of the interested parties who have lobbied and worked closely with the Union institutions to bring about amendments to the 1993 directive.
+	1.0297267787220286e-10
+This is the new directive, of course, and I am pleased that it has been extended to offshore workers, fishermen and doctors in training.
+	1.2855831037649218e-09
+The most contentious part of the directive was bound to relate to doctors in training who would benefit from this piece of legislation.
+	2.3291925465838507e-05
+One should recall that the Council had originally proposed an exemption for a period of some 13 years before doctors in training would secure the benefits of the directive.
+	2.6485295364013895e-08
+Naturally, Parliament put forward its own proposals to support the right of doctors in training to be covered by this directive after a period of 4 years.
+	2.319639665318677e-09
+Hence the conciliation procedure which you, Mr President, were involved in.
+	0.0008333333333333335
+But whatever honeyed words are attached to the conclusions of the procedure, the bottom line is that junior doctors will not secure benefits for a period of nine years at least.
+	7.34157055199965e-11
+According to the conclusions of the Conciliation Committee, junior doctors will secure benefits after a transitional period of five years and a four-year transposition period.
+	9.968080706378838e-12
+I fully support the right of junior doctors and doctors in training to secure the benefits of this directive, but the Conciliation Committee conclusions will have reluctantly to be accepted.
+	9.785979838063169e-10
+I would like in conclusion to refer to one small but very important matter, namely that under exceptional circumstances there may be a further extension of two years and indeed up to three years if governments argue that the reduction would cause real administrative difficulties.
+	1.2421599830509757e-11
+I do hope that this directive can be implemented sooner rather than later.
+	7.891414141414141e-06
+Mr President, ladies and gentlemen, working time policy - as we can see once again - is not economic policy, it is health and safety at work policy.
+	6.253930470221923e-15
+
+avg_probability  : 0.02624369160433214
